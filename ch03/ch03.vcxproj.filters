@@ -27,10 +27,8 @@
     <ClCompile Include="ch03-3-5..cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="ch03-3-5.maincpp">
+    <ClCompile Include="ch03-3-5 main.cpp">
       <Filter>소스 파일</Filter>
-    </None>
+    </ClCompile>
   </ItemGroup>
 </Project>

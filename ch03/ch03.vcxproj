@@ -147,10 +147,8 @@
     <ClCompile Include="ch03-3-4.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="ch03-3-5 main.cpp" />
     <ClCompile Include="ch03-3-5..cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="ch03-3-5.maincpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
