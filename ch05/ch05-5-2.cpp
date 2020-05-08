@@ -10,7 +10,7 @@ typedef struct stackNode
 	struct stackNode* link;
 } stackNode;
 
-stackNode* top;
+stackNode* top = NULL;
 
 int isEmpty()
 {
