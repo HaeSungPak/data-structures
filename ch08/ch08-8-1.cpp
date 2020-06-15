@@ -95,7 +95,7 @@ void main()
 		insertEdge(G3, 1, 3);
 		insertEdge(G3, 2, 3);
 		printf("\n\n G3의 인접 행렬");
-		print_adjMatrix(G2);
+		print_adjMatrix(G3);
 
 		for (i = 0; i < 3; i++)
 			insertVertex(G4, i);
