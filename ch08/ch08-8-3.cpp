@@ -141,7 +141,7 @@ void insertEdge(graphType* g, int u, int v)
 		}
 	}
 
-	void main()
+}void main()
 	{
 		int i;
 		graphType* G9;
