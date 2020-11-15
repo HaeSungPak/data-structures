@@ -151,6 +151,7 @@
     <ClCompile Include="실습6-1.cpp" />
     <ClCompile Include="실습6-13.cpp" />
     <ClCompile Include="실습6-14.cpp" />
+    <ClCompile Include="실습6-15.cpp" />
     <ClCompile Include="실습6-3.cpp" />
     <ClCompile Include="실습6-4.cpp" />
     <ClCompile Include="실습6-5.cpp" />
