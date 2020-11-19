@@ -138,6 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="intSet.h" />
     <ClInclude Include="실습4-1.h" />
     <ClInclude Include="실습4-2.h" />
     <ClInclude Include="실습4-5.h" />
@@ -145,6 +146,7 @@
     <ClInclude Include="실습4C-1.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="intSet.cpp" />
     <ClCompile Include="실습5-1.cpp" />
     <ClCompile Include="실습5-2.cpp" />
     <ClCompile Include="실습5-4.cpp" />
