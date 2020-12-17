@@ -153,6 +153,7 @@
     <ClCompile Include="ChainHash.cpp" />
     <ClCompile Include="intSet.cpp" />
     <ClCompile Include="Member.cpp" />
+    <ClCompile Include="실습11-8.cpp" />
     <ClCompile Include="실습5-1.cpp" />
     <ClCompile Include="실습5-2.cpp" />
     <ClCompile Include="실습5-4.cpp" />
